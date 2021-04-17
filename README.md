@@ -5,6 +5,7 @@
 - 📫 How to reach me shiva.badugu27@gmail.com
 
 - I have started learning GITHUB
+- practice is the key
 
 <!---
 Shiva-powershell/Shiva-powershell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

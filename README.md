@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on powershell automation
 - 📫 How to reach me shiva.badugu27@gmail.com
 
+- I have started learning GITHUB
+
 <!---
 Shiva-powershell/Shiva-powershell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
